@@ -1,0 +1,11 @@
+streamlit
+psycopg2
+numpy
+sentence-transformers
+pypdf2
+python-docx
+pandas
+python-dotenv
+langchain
+google-generativeai
+typing-extensions
